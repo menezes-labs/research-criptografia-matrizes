@@ -1,6 +1,6 @@
 # matrixcalculus1000
 
-[![CI](https://github.com/menezesx2k26-byte/matrixcalculus1000/actions/workflows/ci.yml/badge.svg)](https://github.com/menezesx2k26-byte/matrixcalculus1000/actions/workflows/ci.yml)
+[![CI](https://github.com/menezes-labs/research-criptografia-matrizes/actions/workflows/ci.yml/badge.svg)](https://github.com/menezes-labs/research-criptografia-matrizes/actions/workflows/ci.yml)
 
 Projeto em **Rust** para gerar, analisar e medir o custo de matrizes reais densas quadradas de até **1000×1000**, com foco em detectar matrizes **sem inversa** sem calcular a inversa completa.
 
