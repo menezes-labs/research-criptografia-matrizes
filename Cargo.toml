@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "High-performance singularity analysis for dense real matrices up to 1000x1000"
 license = "MIT"
-repository = "https://github.com/menezesx2k26-byte/matrixcalculus1000"
+repository = "https://github.com/menezes-labs/research-criptografia-matrizes"
 
 [dependencies]
 rayon = "1.10"
